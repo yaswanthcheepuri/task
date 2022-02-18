@@ -27,7 +27,7 @@ function Navbarcomponent() {
         </LinkContainer>
         
         <LinkContainer to="contactus">
-        <Nav.Link>Login</Nav.Link>
+        <Nav.Link>Contact Us</Nav.Link>
         </LinkContainer>
     </Nav>
   </Navbar.Collapse>
