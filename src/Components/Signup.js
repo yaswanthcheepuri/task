@@ -2,6 +2,7 @@ import React from 'react'
 
 function Signup() {
   
+    
     return (
       <div className="row">
         <p className="display-1 text-center signup">Signup</p> 
@@ -9,7 +10,7 @@ function Signup() {
           <form className="form-style1 p-4" >
              <div className="mb-3 fw-bold">
               <label htmlFor="name"> Name</label>
-              <input type='text'  id="name" className="form-control" />
+              <input type='text'  id="name" className="form-control"  />
               
           </div>
 
