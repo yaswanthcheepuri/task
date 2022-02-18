@@ -2,7 +2,7 @@ import React from 'react'
 
 function Signup() {
   
-    
+
     return (
       <div className="row">
         <p className="display-1 text-center signup">Signup</p> 
