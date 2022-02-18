@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "yaswanth",
+      "city": "visakhapatnam",
+      "email": "xxxx@gmail.com"
+    },
+    {
+      "id": 2,
+      "username": "yaswanth",
+      "city": "visakhapatnam",
+      "email": "xxxx@gmail.com"
+    }
+  ]
+}
